@@ -1,15 +1,12 @@
 #include<stdio.h>
-int is_Palindrome( int );
-
 
 int main()
 {
-    int input,reversed=0;
-    int x;
+    int input,reversed=0,x;
     printf( "Input a five-digit number\n" );
     scanf("%d", &input);
 
-    x = input;
+    x = input;  //making duplicate of input to check at last
     reversed = reversed + (x/10000);
     x = x - ((x / 10000) * 10000);
 

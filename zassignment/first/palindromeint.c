@@ -7,7 +7,7 @@ int main(){
     printf("Enter a 5 digit integer to check if it is a palindrome or not\n");
     scanf("%d",&num);
 
-    num2 = num;
+    num2 = num;    
 
     while(num2>=1){
         reverse = (reverse * 10) + (num2%10);

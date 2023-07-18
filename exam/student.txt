@@ -1,0 +1,4 @@
+Name = mukesh          Roll No. = 21 Age = 45 
+Name = Ark             Roll No. = 11 Age = 15 
+Name = sub             Roll No. = 12 Age = 21 
+Name = mans            Roll No. = 31 Age = 67 
