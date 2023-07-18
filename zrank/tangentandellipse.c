@@ -1,0 +1,1 @@
+https://www.hackerrank.com/contests/projecteuler/challenges/euler246/problem?isFullScreen=true
